@@ -13,3 +13,4 @@ https://drive.google.com/drive/folders/1iaY7S6-kTJbv8cTx9NQ5l0f3NIwkpAvU?usp=sha
 3. A systematic review of deep learning data augmentation in medical imaging: Recent advances and future research directions 
 4. CheXpert: A Large Chest Radiograph Dataset with Uncertainty Labels and Expert Comparison
 5. A Systematic Review and Identification of the Challenges of Deep Learning Techniques for Undersampled Magnetic Resonance Image Reconstruction
+6. U-Net: Convolutional Networks for Biomedical Image Segmentation
